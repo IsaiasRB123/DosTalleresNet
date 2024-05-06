@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaias\\source\\repos\\main4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E24CA2B-20AB-4917-970D-9E10E525DCD8}|main4\\main4.csproj|c:\\users\\isaias\\source\\repos\\main4\\main4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E24CA2B-20AB-4917-970D-9E10E525DCD8}|main4\\main4.csproj|solutionrelative:main4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isaias\\source\\repos\\main4\\main4\\Program.cs",
+              "RelativeDocumentMoniker": "main4\\Program.cs",
+              "ToolTip": "C:\\Users\\isaias\\source\\repos\\main4\\main4\\Program.cs",
+              "RelativeToolTip": "main4\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:57:50.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
